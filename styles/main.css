@@ -15,6 +15,12 @@ padding-right: 40px;
 height: 600px; width: 400px;
 margin: auto;
 }**/
+img {
+
+	height: 45px;
+	display: block;
+    margin: 0 auto;
+}
 
 h1 {
 text-align: center;	
@@ -56,6 +62,7 @@ input {
 	margin: auto;
 	vertical-align: center;
     padding-left: 20px;
+    border-color: solid gray 2px;
 }
 
 label, input {
