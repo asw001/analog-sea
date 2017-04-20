@@ -32,6 +32,8 @@ margin: auto;
 
 
 }
+
+/**
 .analogsea-form, fieldset, button {
 
 display: block;
@@ -40,10 +42,19 @@ padding-left: 15px;
 padding-right: 15px;
 
 }
-
+**/
 fieldset {
+padding: 0;
+border: none;
+margin: auto;
+}
 
-	overflow:hidden;
+input {
+
+		height: 45px;
+
+	width: 320px;
+	margin: auto;
 }
 
 label, input {
@@ -58,6 +69,7 @@ button {
 	margin-bottom: 10px;
 	color: white;
 	height: 45px;
+	width: 320px;
 	background-color: #4CAF50; /* Green */
     border: none;
     text-align: center;
