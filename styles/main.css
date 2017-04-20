@@ -1,4 +1,4 @@
-body {
+body * {
 
 	box-sizing: border-box;
 }
@@ -9,31 +9,41 @@ main {
 	padding: 60px;
 }
 
-div {
+/**div {
 padding-left: 40px;
 padding-right: 40px;
 height: 600px; width: 400px;
 margin: auto;
-}
+}**/
 
 h1 {
 text-align: center;	
+padding-top: 30px;
 margin-bottom: 50px;
 }
 
 .analogsea-form {
 
 	background-color: white;
+	padding-left: 40px;
+padding-right: 40px;
+height: 450px; width: 400px;
+margin: auto;
+
 
 }
 .analogsea-form, fieldset, button {
 
-width: 320px;
 display: block;
 margin: auto;
 padding-left: 15px;
 padding-right: 15px;
 
+}
+
+fieldset {
+
+	overflow:hidden;
 }
 
 label, input {
