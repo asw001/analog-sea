@@ -51,10 +51,11 @@ margin: auto;
 
 input {
 
-		height: 45px;
-
+	height: 45px;
 	width: 320px;
 	margin: auto;
+	vertical-align: center;
+    padding-left: 20px;
 }
 
 label, input {
