@@ -1,0 +1,31 @@
+body {
+
+	box-sizing: border-box;
+}
+
+main {
+padding-left: 40px;
+padding-right: 40px;
+height: 600px; width: 400px;
+margin: auto;
+}
+
+h1 {
+text-align: center;	
+margin-bottom: 50px;
+}
+.analogsea-form, fieldset, button {
+
+width: 320px;
+display: block;
+margin: auto;
+padding-left: 15px;
+padding-right: 15px;
+
+}
+
+label, input {
+
+	margin-bottom: 10px;
+	display: block;
+}
