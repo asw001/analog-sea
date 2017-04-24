@@ -23,7 +23,7 @@ margin: auto;
 }**/
 img {
 
-	height: 40px;
+	height: 32px;
 	display: block;
     margin: 0 auto;
 }
@@ -86,7 +86,7 @@ button {
 	color: white;
 	height: 45px;
 	width: 320px;
-	background-color: #4CAF50; 
+	background-color: #16D960; 
     border: none;
     text-align: center;
     text-decoration: none;
